@@ -15,3 +15,5 @@ Install/Use PyQt5 in Visual Studio Code in Windows : https://www.youtube.com/wat
 Download and create an app using Qt Designer (for PyQt6, PyQt5, PySide6) : https://www.youtube.com/watch?v=4HgIAZyrqgU
 
 DB Browser for SQLite : https://sqlitebrowser.org and https://sqlitebrowser.org/dl/
+
+SqLite Tutorial videos : https://www.youtube.com/playlist?list=PL2gbeBICuwU7SSDS7BC6-RZrltG_HADT3
